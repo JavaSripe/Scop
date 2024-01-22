@@ -1,2 +1,2 @@
 # Scop
-😃Automatic controls on GitHub:github:
+😃Automatic controls on GitHub :octocat:
